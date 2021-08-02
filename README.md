@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Mathew ひ
+### I’m interested in: Cybersecurity, Cryptography, Swimming
+### I’m currently learning: Python, C++
+### If you got something to say: .Mat#6732
 
 <!--
 **MathewButtner/MathewButtner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
