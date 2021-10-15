@@ -1,4 +1,4 @@
-• Hi, I'm Mathew ひ</br>
+• Hi, I'm Mathew</br>
 • I'm interested in: Programming, Artificial Intelligence, Machine Learning and Cryptographics</br>
 • I'm currently learning: Python and C++</br>
 • Discord: Mathew#6732</br>
