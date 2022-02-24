@@ -4,7 +4,7 @@ Discord: Mathew#6732</br>
 
 ## Current:
 
-![](https://img.shields.io/badge/lang-Python-orange) ![](https://img.shields.io/badge/lang-C++-orange) ![](https://img.shields.io/badge/lang-SQL-) ![](https://img.shields.io/badge/editor-Visual_Studio_Code-orange) ![](https://img.shields.io/badge/OS-Windows_11-orange)
+![](https://img.shields.io/badge/lang-Python-blue) ![](https://img.shields.io/badge/lang-C++-blue) ![](https://img.shields.io/badge/lang-SQL-blue) ![](https://img.shields.io/badge/OS-Windows_11-blue) ![](https://img.shields.io/badge/editor-Visual_Studio_Code-blue)
 
 
 Stats:
