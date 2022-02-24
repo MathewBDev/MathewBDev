@@ -16,6 +16,6 @@ I'm a software engineering student from Western Australia.
 
 Stats:
 
-![generic stats](https://github-readme-stats.MathewButtner.app/api/?username=MathewButtner&theme=react&layout=compact)
+![generic stats](https://github-readme-stats.vercel.app/api/?username=MathewButtner&theme=react&layout=compact)
 
-![laugnages_used](https://github-readme-stats.MathewButtner.app/api/top-langs/?username=MathewButtner&theme=react&layout=compact)
+![laugnages_used](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewButtner&theme=react&layout=compact)
