@@ -9,6 +9,6 @@ Discord: Mathew#6732</br>
 
 Stats:
 
-![generic stats](https://github-readme-stats.vercel.app/api/?username=MathewButtner&theme=react&layout=compact)
+![generic stats](https://github-readme-stats.vercel.app/api/?username=MathewButtner&theme=react&layout=compact) 
 
 ![laugnages_used](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewButtner&theme=react&layout=compact)
