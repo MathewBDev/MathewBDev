@@ -1,5 +1,5 @@
-I'm a software engineering student from Western Australia.
-Discord: Mathew#6732</br>
+I'm a software engineering student from Western Australia. </br>
+Discord: .Mat#6732</br>
 
 
 ## Learning:
