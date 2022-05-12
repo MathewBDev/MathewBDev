@@ -10,5 +10,4 @@ Discord: .Mat#6732</br>
 Stats:
 
 ![generic stats](https://github-readme-stats.vercel.app/api/?username=MathewButtner&theme=react&layout=compact) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewButtner)](https://github.com/MathewButtner/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewButtner)](https://github.com/MathewButtner/github-readme-stats&theme=radical)
