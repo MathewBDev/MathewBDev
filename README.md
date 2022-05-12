@@ -11,4 +11,5 @@ Stats:
 
 ![generic stats](https://github-readme-stats.vercel.app/api/?username=MathewButtner&theme=react&layout=compact) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathewbuttner&langs_count=8&theme=react&layout=compact)]
+
+[![Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathewbuttner)](https://github.com/Mathewbuttner/github-readme-stats)
