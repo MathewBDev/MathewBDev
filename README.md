@@ -27,6 +27,6 @@ I'm a second year software developer studying at Edith Cowan University. I love 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathewButtner&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=MathewButtner&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for MathewButtner" /></p>
 
-<!-- <img align="left" width="150" height="150" src="https://github.com/codess-aus/codess-aus/blob/main/assets/octomichelle1.gif"></a> -->
-<!-- <img align="left" width="150" height="150" src="https://github.com/codess-aus/codess-aus/blob/main/assets/twiliowearamask.gif"></a> -->
+<img align="left" width="150" height="150" src="https://github.com/codess-aus/codess-aus/blob/main/assets/octomichelle1.gif">
+<img align="left" width="150" height="150" src="https://github.com/codess-aus/codess-aus/blob/main/assets/twiliowearamask.gif"></a>
 
