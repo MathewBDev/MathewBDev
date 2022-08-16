@@ -25,7 +25,6 @@ I'm a second year software developer studying at Edith Cowan University. I love 
 
 <!--dashboards-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathewButtner&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=MathewButtner&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for MathewButtner" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathewButtner&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /></br><img align="center" src="https://github-readme-stats.vercel.app/api?username=MathewButtner&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for MathewButtner" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathewButtner&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=MathewButtner&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for MathweButtner" /></p>
 
