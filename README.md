@@ -9,7 +9,7 @@
 
 <p align="center">
 		<b>
-					I'm a third year software developer studying at Edith Cowan University. I enjoy coding with Python and C++ - I'm currently learning advanced Artificial Intelligence and Crypto
+					I'm a third year student studying at Edith Cowan University. I enjoy working with Python and C++ - I'm currently learning  Artificial Intelligence and Crypto
 		</b>
 </p>
 
