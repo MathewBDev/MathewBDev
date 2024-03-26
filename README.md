@@ -2,11 +2,11 @@
     Hey there, I'm Mathew! 🚀
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-
+<p align="center">
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2ABB9B&size=22&center=true&vCenter=true&width=500&height=50&lines=Backend+Application+Developer;AI+%26+ML+Enthusiast;Cyber+Security+Advocate;Constantly+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
-
+</p>
 <p align="center">
     <b>
         Third-year Computer Science (Software Engineering) & Cyber Security student, passionate about crafting innovative solutions and diving deep into AI realms.
