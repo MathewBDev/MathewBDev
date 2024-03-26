@@ -4,10 +4,6 @@
 </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=Backend+Application+Developer;AI+%26+ML+Enthusiast+;Cyber+Security+Advocate;Constantly+Learning+New+Things" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
 		<b>
 					I'm a third year student studying Computer Science (Software Engineering) & Cyber Security. I enjoy working with C++, Java and Python - I'm currently pursuing artificial intelligence
 		</b>
