@@ -13,13 +13,6 @@
 		</b>
 </p>
 
-
-## 🔥 Streak stats
-<p align="center">
-		<img src="https://streak-stats.demolab.com/?user=MathewBDev&theme=tokyonight&hide_border=true&border_radius=4.5&locale=en&date_format=M+j%5B%2C+Y%5D&properties=background"></img>
-</p>
-
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
